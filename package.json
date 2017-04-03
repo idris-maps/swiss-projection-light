@@ -1,0 +1,19 @@
+{
+  "name": "swiss-projection-light",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+				"make": "browserify lib/for-browser.js -o dist/swiss-proj.js && minify dist/swiss-proj.js -o dist/swiss-proj.min.js"
+  },
+  "author": "idris-maps",
+  "license": "GPLv2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idris-maps/swiss-projection-light.git"
+  },
+  "bugs": {
+    "url": "https://github.com/idris-maps/swiss-projection-light/issues"
+  }
+}
