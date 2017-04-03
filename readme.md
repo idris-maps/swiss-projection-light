@@ -11,16 +11,16 @@ This is a lightweight version of [swiss-projection](https://www.npmjs.com/packag
 ### NPM
 
 ```
-$ npm install swiss-projection
+$ npm install swiss-projection-light
 ```
 
 ```
-var ch = require('swiss-projection')
+var ch = require('swiss-projection-light')
 ```
 
 ### Browser
 
-Download [swiss-proj.min.js](https://raw.githubusercontent.com/idris-maps/swiss-projection/master/dist/swiss-proj.min.js)
+Download [swiss-proj.min.js](https://raw.githubusercontent.com/idris-maps/swiss-projection-light/master/dist/swiss-proj.min.js)
 
 ```
 <script src="swiss-proj.min.js"></script>

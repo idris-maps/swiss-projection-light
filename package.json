@@ -9,6 +9,9 @@
   },
   "author": "idris-maps",
   "license": "GPLv2",
+  "keywords": [
+    "projection", "lv03", "lv95", "wgs84", "swiss"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/idris-maps/swiss-projection-light.git"
