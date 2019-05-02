@@ -1,10 +1,8 @@
+**DEPRECATED** use [swiss-projection](https://www.npmjs.com/package/swiss-projection) instead
+
 # swiss-projection-light
 
 Convert points and GeoJSON objects between LV03(EPSG:21781), LV95(EPSG:2056) and WGS84(EPSG:4326).
-
-**No dependencies**
-
-This is a lightweight version of [swiss-projection](https://www.npmjs.com/package/swiss-projection). Calculations are based [on this paper](https://www.swisstopo.admin.ch/content/swisstopo-internet/fr/online/calculation-services/_jcr_content/contentPar/tabs/items/documents_publicatio/tabPar/downloadlist/downloadItems/13_1467103515131.download/naeherung_f_st.pdf) (PDF) by [swisstopo](https://www.swisstopo.admin.ch). [swiss-projection](https://www.npmjs.com/package/swiss-projection) on the other hand is based on [proj4](https://www.npmjs.com/package/proj4) an therefore a bit heavier.
 
 ## Install
 
